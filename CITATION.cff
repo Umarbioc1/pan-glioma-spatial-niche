@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Pan-glioma spatial transcriptomics: separating niche, cell state and hypoxia"
+authors:
+  - family-names: Farooq
+    given-names: Umar
+  - family-names: Deng
+    given-names: Wei
+  - family-names: Zhu
+    given-names: Jing
+  - family-names: Li
+    given-names: Jun
+  - family-names: Yang
+    given-names: Xiaotong
+  - family-names: Chang
+    given-names: Zhijie
+license: MIT
+repository-code: "https://github.com/USERNAME/pan-glioma-spatial-niche"
+preferred-citation:
+  type: article
+  title: "Disentangling spatial niche, cell state and hypoxia across diffuse gliomas identifies ANGPTL4 as a peri-necrotic ligand in glioblastoma"
+  authors:
+    - family-names: Farooq
+      given-names: Umar
+    - family-names: Deng
+      given-names: Wei
+    - family-names: Zhu
+      given-names: Jing
+    - family-names: Li
+      given-names: Jun
+    - family-names: Yang
+      given-names: Xiaotong
+    - family-names: Chang
+      given-names: Zhijie
+  journal: "Genes & Diseases"
+  year: 2026

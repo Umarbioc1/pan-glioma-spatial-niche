@@ -1,0 +1,13 @@
+scanpy>=1.10
+anndata>=0.10
+infercnvpy>=0.4
+harmonypy>=0.0.9
+scikit-learn>=1.4
+scipy>=1.11
+statsmodels>=0.14
+lifelines>=0.28
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+adjustText>=1.0
+openpyxl>=3.1
